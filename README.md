@@ -63,6 +63,6 @@ Update:     PUT:  http://localhost:8080/todolist
 
 Delete:     DEL:  http://localhost:8080/todolist/1
 
-TODO: finish example calls to the list
+View Swagger UI:  http://localhost:8080/swagger-ui/
 
 
